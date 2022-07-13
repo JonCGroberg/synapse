@@ -1,8 +1,9 @@
 # Synapse
 Machine learning in C#. Written from scratch with no dependencies
-'''
-using ML;
-using static System.Console;
+
+# Using Synapse
+```
+using Synapse;
 
 double[][] input =
 {
@@ -21,11 +22,10 @@ double[][] output =
 
 Network network = new(2, 1);
 network.Init(input, output);
-//WriteLine(network);
 
 WriteLine("\nEstimates:" + network.Predict());
 WriteLine("\nError:"     + network.Error());
-'''
+```
 ## Features
 ### Matrix math library 
   - [x] Addition/Subtraction
