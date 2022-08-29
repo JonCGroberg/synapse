@@ -36,4 +36,10 @@ WriteLine("\nError:"     + network.Error());
 ### Functional Methods
   - [x] ZipWith 2D
   - [x] Map 2D
+### Activation Functions
+  - [ ] Sigmoid
+  - [ ] Relu
+### Network Architectures
+  - [ ] Simple Feed Forward
+  - [ ] CNN
   
