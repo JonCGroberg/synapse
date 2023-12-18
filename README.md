@@ -42,4 +42,6 @@ WriteLine("\nError:"     + network.Error());
 ### Network Architectures
   - [ ] Simple Feed Forward
   - [ ] CNN
-  
+
+  # Notes
+  Prototyping done in Haskell: https://github.com/JonCGroberg/SimpleFeedForwardNetwork
