@@ -1,6 +1,8 @@
 # Synapse
 Machine learning in C#. Written from scratch with no dependencies
 
+> The Matrix math portion of this code has been ported to its on library is being rewritten/revamped at https://github.com/JonCGroberg/linear-algebra
+
 # Using Synapse
 ```
 using Synapse;
